@@ -1,4 +1,9 @@
+# Contacts Manager (Main & Bug Fix)
+<<<<<<< HEAD
 # Contacts Manager (Main)
+=======
+# Contacts Manager (Bug Fix)
+>>>>>>> bug-fix
 # Contacts Manager
 
 Простое консольное приложение для управления контактами на Python.
